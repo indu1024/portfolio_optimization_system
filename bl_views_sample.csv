@@ -1,0 +1,5 @@
+view,asset,loading,view_return,confidence
+v1,US_EQ,1,0.02,0.7
+v1,EU_EQ,-1,0.02,0.7
+v2,GOLD,1,0.01,0.6
+v2,US_BOND,-1,0.01,0.6
